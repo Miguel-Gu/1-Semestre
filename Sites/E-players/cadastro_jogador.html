@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro_jogador</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <header>
+        <iframe src="header.html" style="height: 100%; width: 100%;" frameborder="0"></iframe>
+    </header>
+
+    <main>
+        <section class="banner_cadastro">
+            <p>Cadastro de Jogador</p>
+        </section>
+
+        <section class="conteudo_principal_tela_cadastro_jogador">
+            <div class="div_cadastro_jogador">
+                <form class="formulario_cima">
+                    <div>
+                        <label>Nome do Jogador</label>
+                        <input type="text">
+                    </div>
+
+                    <div>
+                        <label>Email</label>
+                        <input type="email">
+                    </div>
+
+                    <div>
+                        <label>Senha</label>
+                        <input type="password">
+                    </div>
+
+                </form>
+
+                <form>
+                    <label for="equipes">Equipe</label>
+                    <select id="equipes">
+                        <option value="senai_cytechs">SENAI Cytechs</option>
+                        <option value="flamengo">Flamengo</option>
+                        <option value="" selected></option>
+                    </select>
+                </form>
+
+                <div class="div_botão_jogador">
+                    <button>cadastrar</button>
+                </div>
+            </div>
+
+            <p class="título_lista_jogador">Lista de Jogadores</p>
+            <div class="lista_jogador">
+                <table class="tabela">
+                    <tr class="legenda_tabela">
+                        <td>Nome do Jogador</td>
+                    
+                        <td>Equipe</td>
+                    </tr>
+                    <tr>
+                        <td>Thiago</td>
+                    
+                        <td>SENAI Cytechs</td>
+                    </tr>
+                    <tr>
+                        <td>Odirlei</td>
+                    
+                        <td>SENAI Cytechs</td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <iframe src="footer.html" style="height: 400px; width: 100%;" frameborder="0"></iframe>
+    </footer>
+</body>
+</html>

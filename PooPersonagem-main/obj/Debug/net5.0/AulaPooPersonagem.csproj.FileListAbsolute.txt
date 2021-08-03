@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.exe
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.deps.json
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.runtimeconfig.json
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.runtimeconfig.dev.json
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.dll
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\ref\AulaPooPersonagem.dll
+C:\Users\dev\Desktop\AulaPooPersonagem\bin\Debug\net5.0\AulaPooPersonagem.pdb
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.AssemblyInfo.cs
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.dll
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\ref\AulaPooPersonagem.dll
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.pdb
+C:\Users\dev\Desktop\AulaPooPersonagem\obj\Debug\net5.0\AulaPooPersonagem.genruntimeconfig.cache

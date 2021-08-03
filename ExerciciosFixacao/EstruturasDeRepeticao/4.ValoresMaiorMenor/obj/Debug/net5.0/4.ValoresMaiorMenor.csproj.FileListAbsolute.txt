@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.exe
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.deps.json
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.runtimeconfig.json
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.dll
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\ref\4.ValoresMaiorMenor.dll
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\bin\Debug\net5.0\4.ValoresMaiorMenor.pdb
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.AssemblyInfo.cs
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.dll
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\ref\4.ValoresMaiorMenor.dll
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.pdb
+C:\Users\gumig\Desktop\4.ValoresMaiorMenor\obj\Debug\net5.0\4.ValoresMaiorMenor.genruntimeconfig.cache

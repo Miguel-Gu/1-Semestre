@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.exe
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.deps.json
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.runtimeconfig.json
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.dll
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\ref\1.AoAtualVoto.dll
+C:\Users\gumig\Desktop\1.AoAtualVoto\bin\Debug\net5.0\1.AoAtualVoto.pdb
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.AssemblyInfo.cs
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.dll
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\ref\1.AoAtualVoto.dll
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.pdb
+C:\Users\gumig\Desktop\1.AoAtualVoto\obj\Debug\net5.0\1.AoAtualVoto.genruntimeconfig.cache

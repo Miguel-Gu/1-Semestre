@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.exe
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.deps.json
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.runtimeconfig.json
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.dll
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ref\ExemploFuncao.dll
+C:\Users\gumig\Desktop\ExemploFuncao\bin\Debug\net5.0\ExemploFuncao.pdb
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.AssemblyInfo.cs
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.dll
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ref\ExemploFuncao.dll
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.pdb
+C:\Users\gumig\Desktop\ExemploFuncao\obj\Debug\net5.0\ExemploFuncao.genruntimeconfig.cache

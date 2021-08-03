@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Exemplo_EplayersMvcTarde</title>
+    <link rel="stylesheet" href="~/css/estilo.css" />
+</head>
+
+<body>
+    <header>
+        <div class="header">
+            <div class="container container_header" id="header">
+                v<a asp-area="" asp-controller="Home" asp-action="Index" target="_parent"><img src="/assets_/logo.svg" class="logo"></a>
+                <nav class="links">
+                    <a asp-area="" asp-controller="Home" asp-action="Index" target="_parent">início</a>
+                    <a href="#partidas" target="_parent">horários</a>
+                    <a href="#partidas" target="_parent">campeonato</a>
+                    <a href="#notícias" target="_parent">resultados</a>
+                    <a href="#notícias" target="_parent">notícias</a>
+
+                    @if (ViewBag.UserName != null)
+                    {
+                        <li class="login_botao">Olá @ViewBag.UserName</li>
+                        <li><a asp-area="" asp-controller="Login" asp-action="Logout" class="logout">Logout</a></li>
+                    }
+                    else
+                    {
+                        <a asp-area="" asp-controller="Login" asp-action="Index" target="_parent">login</a>
+                    }
+
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <section class="container footer">
+            <div class="links_úteis">
+                <span>Links Úteis</span>
+                <ul>
+                    <li class="closed"><a href=>Regras de utilização</a></li>
+                    <li class="closed"><a href=>Suporte</a></li>
+                    <li class="closed"><a href=>Central de Ajuda</a></li>
+                    <li class="closed"><a href=>Contato</a></li>
+                </ul>
+            </div>
+
+            <div class="páginas">
+                <span>Páginas</span>
+                <ul>
+                    <li class="closed"><a href="#principal" target="_parent">Início</a></li>
+                    <li class="closed"><a href="#partidas" target="_parent">Campeonatos</a></li>
+                    <li class="closed"><a href="#notícias" target="_parent">Resultados</a></li>
+                    <li class="closed"><a href="#notícias" target="_parent">Nóticias</a></li>
+                    <li class="closed"><a asp-area="" asp-controller="Login" asp-action="Index" target="_parent">Login/cadastro</a></li>
+                </ul>
+            </div>
+
+            <a class="logo_footer" href="#principal"><img src="/assets_/logo.svg"></a>
+
+
+            <div class="coluna">
+                <div class="cadastro">
+                    <p>Faça parte do nosso clan, assine nova newsletter!</p>
+                    <div class="caixa_cadastro">
+                        <input type="text" class="email" value="E-mail">
+                        <button class="cadastrar" value="Cadastrar">
+                            <p>Cadastrar</p>
+                    </div>
+                </div>
+                <div class="siga">
+                    <p>Siga-nos em:</p>
+                    <img src="/assets_/instagram.png">
+                    <img src="/assets_/facebook.png">
+                    <img src="/assets_/youtube.png">
+                </div>
+        </section>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro_time</title>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+    <header>
+        <iframe src="header.html" style="height: 100%; width: 100%;" frameborder="0"></iframe>
+    </header>
+
+    <main>
+        <section class="banner_cadastro_times">
+            <p>Cadastro de Times</p>
+        </section>
+
+        <section class="conteudo_principal_tela_cadastro_times">
+            <div class="div_cadastro_time">
+                <form>
+
+                    <div>
+                        <label class="label_nome_equipe">Nome da Equipe</label>
+                        <input type="text" class="input_nome_equipe">
+                    </div>
+
+                    <div>
+                        <span>Emblema</span>
+                        <div class="file-input">
+                            <label for="file">Escolher Imagem</label>
+                            <input type="file" id="file" class="input_emblema file">
+                        </div>
+                    </div>
+                </form>
+
+                <div class="div_botão_time">
+                    <button>cadastrar</button>
+                </div>
+            </div>
+
+            <p class="título_lista_times">Lista de Times</p>
+            <div class="lista_times">
+                <table class="tabela">
+                    <tr class="legenda_tabela">
+                        <td>Nome da Equipe</td>
+                    
+                        <td>Emblema</td>
+                    </tr>
+                    <tr>
+                        <td>SENAI Cytechs</td>
+                    
+                        <td><img class="logo_flamengo" src="css/assets_/fla-logo.png"></td>
+                    </tr>
+                    <tr>
+                        <td>Flamengo</td>
+                    
+                        <td><img class="logo_flamengo" src="css/assets_/fla-logo.png"></td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <iframe src="footer.html" style="height: 400px; width: 100%;" frameborder="0"></iframe>
+    </footer>
+</body>
+</html>

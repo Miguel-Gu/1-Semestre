@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.exe
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.deps.json
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.runtimeconfig.json
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.dll
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ref\ExemploMVC.dll
+C:\Users\gumig\Desktop\Dev\ExemploMVC\bin\Debug\net5.0\ExemploMVC.pdb
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.AssemblyInfo.cs
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.dll
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ref\ExemploMVC.dll
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.pdb
+C:\Users\gumig\Desktop\Dev\ExemploMVC\obj\Debug\net5.0\ExemploMVC.genruntimeconfig.cache

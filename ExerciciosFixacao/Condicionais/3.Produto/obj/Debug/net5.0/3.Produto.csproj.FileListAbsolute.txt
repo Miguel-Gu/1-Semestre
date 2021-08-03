@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.exe
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.deps.json
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.runtimeconfig.json
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.dll
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\ref\3.Produto.dll
+C:\Users\gumig\Desktop\3.Produto\bin\Debug\net5.0\3.Produto.pdb
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.AssemblyInfo.cs
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.dll
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\ref\3.Produto.dll
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.pdb
+C:\Users\gumig\Desktop\3.Produto\obj\Debug\net5.0\3.Produto.genruntimeconfig.cache

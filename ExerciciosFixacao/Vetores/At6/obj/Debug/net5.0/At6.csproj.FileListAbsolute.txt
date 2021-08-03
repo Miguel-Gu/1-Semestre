@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.exe
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.deps.json
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.runtimeconfig.json
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.dll
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\ref\At6.dll
+C:\Users\gumig\Desktop\At6\bin\Debug\net5.0\At6.pdb
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.AssemblyInfo.cs
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.dll
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\ref\At6.dll
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.pdb
+C:\Users\gumig\Desktop\At6\obj\Debug\net5.0\At6.genruntimeconfig.cache

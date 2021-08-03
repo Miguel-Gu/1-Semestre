@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.exe
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.deps.json
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.runtimeconfig.json
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.dll
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\ref\5.Tabuada.dll
+C:\Users\gumig\Desktop\5.Tabuada\bin\Debug\net5.0\5.Tabuada.pdb
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.AssemblyInfo.cs
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.dll
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\ref\5.Tabuada.dll
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.pdb
+C:\Users\gumig\Desktop\5.Tabuada\obj\Debug\net5.0\5.Tabuada.genruntimeconfig.cache

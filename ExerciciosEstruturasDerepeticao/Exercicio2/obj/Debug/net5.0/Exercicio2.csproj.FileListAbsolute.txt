@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\gumig\Desktop\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\Users\gumig\Desktop\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache

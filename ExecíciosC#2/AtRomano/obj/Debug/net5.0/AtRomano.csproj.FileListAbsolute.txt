@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.exe
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.deps.json
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.runtimeconfig.json
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.dll
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\ref\AtRomano.dll
+C:\Users\gumig\Desktop\AtRomano\bin\Debug\net5.0\AtRomano.pdb
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.AssemblyInfo.cs
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.dll
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\ref\AtRomano.dll
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.pdb
+C:\Users\gumig\Desktop\AtRomano\obj\Debug\net5.0\AtRomano.genruntimeconfig.cache

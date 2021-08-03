@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.exe
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.deps.json
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.runtimeconfig.json
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.dll
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\ref\7.NumerosOrdemInversa.dll
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\bin\Debug\net5.0\7.NumerosOrdemInversa.pdb
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.AssemblyInfo.cs
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.dll
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\ref\7.NumerosOrdemInversa.dll
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.pdb
+C:\Users\gumig\Desktop\7.NumerosOrdemInversa\obj\Debug\net5.0\7.NumerosOrdemInversa.genruntimeconfig.cache

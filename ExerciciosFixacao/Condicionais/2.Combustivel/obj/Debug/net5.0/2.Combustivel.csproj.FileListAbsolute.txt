@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.exe
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.deps.json
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.runtimeconfig.json
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.dll
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\ref\2.Combustivel.dll
+C:\Users\gumig\Desktop\2.Combustivel\bin\Debug\net5.0\2.Combustivel.pdb
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.AssemblyInfo.cs
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.dll
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\ref\2.Combustivel.dll
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.pdb
+C:\Users\gumig\Desktop\2.Combustivel\obj\Debug\net5.0\2.Combustivel.genruntimeconfig.cache

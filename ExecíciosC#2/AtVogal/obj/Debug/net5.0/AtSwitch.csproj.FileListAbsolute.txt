@@ -1,0 +1,16 @@
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.exe
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.deps.json
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.runtimeconfig.json
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.runtimeconfig.dev.json
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.dll
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\ref\AtSwitch.dll
+C:\Users\gumig\Desktop\AtSwitch\bin\Debug\net5.0\AtSwitch.pdb
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.csprojAssemblyReference.cache
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.AssemblyInfoInputs.cache
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.AssemblyInfo.cs
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.csproj.CoreCompileInputs.cache
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.dll
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\ref\AtSwitch.dll
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.pdb
+C:\Users\gumig\Desktop\AtSwitch\obj\Debug\net5.0\AtSwitch.genruntimeconfig.cache
